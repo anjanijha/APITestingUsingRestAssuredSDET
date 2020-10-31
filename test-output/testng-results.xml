@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18446" started-at="2020-08-16T14:53:32 IST" finished-at="2020-08-16T14:53:50 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18446" started-at="2020-08-16T14:53:32 IST" finished-at="2020-08-16T14:53:50 IST">
+      <class name="com.qa.data_driven_api.DataDrivenTest_AddNewEmployees">
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.data_driven_api.DataDrivenTest_AddNewEmployees@6c49835d]" name="postNewEmployee" duration-ms="9183" started-at="2020-08-16T14:53:35 IST" data-provider="empdataprovider" finished-at="2020-08-16T14:53:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anjanibade]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[90000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.data_driven_api.DataDrivenTest_AddNewEmployees@6c49835d]" name="postNewEmployee" duration-ms="1656" started-at="2020-08-16T14:53:45 IST" data-provider="empdataprovider" finished-at="2020-08-16T14:53:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sunilkesht]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[89999]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.data_driven_api.DataDrivenTest_AddNewEmployees@6c49835d]" name="postNewEmployee" duration-ms="1135" started-at="2020-08-16T14:53:46 IST" data-provider="empdataprovider" finished-at="2020-08-16T14:53:47 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ankitmk]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[7645]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+        <test-method status="PASS" signature="postNewEmployee(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.data_driven_api.DataDrivenTest_AddNewEmployees@6c49835d]" name="postNewEmployee" duration-ms="2548" started-at="2020-08-16T14:53:47 IST" data-provider="empdataprovider" finished-at="2020-08-16T14:53:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarthaknhj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9989]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postNewEmployee -->
+      </class> <!-- com.qa.data_driven_api.DataDrivenTest_AddNewEmployees -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
